@@ -1,2 +1,3 @@
 menambah file1.txt
 menambah barus di file1/txt
+menambahkan feature1.txt 
