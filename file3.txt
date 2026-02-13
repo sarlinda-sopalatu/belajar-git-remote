@@ -1,2 +1,5 @@
 menambah file3.txt
-menambah baris di file ke3
+seharusnya masi tetap di baris ke 2
+feature 3
+feature B 
+feature C
