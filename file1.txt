@@ -1,2 +1,6 @@
 menambah file1.txt
-Mengubah file 1 dan 2 di branch a
+menambah baris di file1.txt
+feature 1
+feature A 
+feature B 
+feature C
